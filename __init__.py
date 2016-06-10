@@ -1,3 +1,7 @@
+'''
+Based on the original TW-700 plugin by Tom Wilson.
+'''
+
 eg.RegisterPlugin(
     name = "Epson TW-700 Projector",
     author = "Tom Wilson",
